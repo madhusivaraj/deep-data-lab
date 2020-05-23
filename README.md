@@ -1,10 +1,10 @@
 
 # Scoring Mechanism to Quantify Different Emotions
 
-Author: Madhumitha Sivaraj
-Lab: [Deep Data Lab](http://deepdata.demelo.org/) 
-Advisor: [Dr. Gerard DeMelo](http://gerard.demelo.org/)
-Semester: Spring 2020
+Author: Madhumitha Sivaraj <br/>
+Lab: [Deep Data Lab](http://deepdata.demelo.org/) <br/> 
+Advisor: [Dr. Gerard DeMelo](http://gerard.demelo.org/) <br/>
+Semester: Spring 2020 
 
 Corresponding paper can be found [here](https://github.com/madhusivaraj/deepdata/blob/master/Scoring_Mechanism_to_Quantify_Different_Emotions.pdf). 
 
